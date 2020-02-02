@@ -1,0 +1,14 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "Nature/dirtfloor011a"
+	//"$bumpmap" "Nature/dirtfloor011a_normal"
+
+	"%tooltexture" "nature/blendsandweed005a_tooltexture"
+	"$surfaceprop" "mud"
+	
+	"$basetexture2" "Nature/dirtfloor012a"
+	//"$bumpmap2" "Nature/dirtfloor012a_normal"
+	"%detailtype" "coastline_redgrass01"
+	
+	"$seamless_scale" .0075
+}

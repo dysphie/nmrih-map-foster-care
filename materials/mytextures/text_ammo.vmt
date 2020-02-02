@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	"$basetexture" "mytextures/text_ammo"
+	
+	"Proxies"
+		{
+			"TextureScroll"
+			{
+				"texturescrollvar" "$baseTextureTransform"
+				"texturescrollrate" 0.03
+				"texturescrollangle" 0.00
+			}
+		}
+}

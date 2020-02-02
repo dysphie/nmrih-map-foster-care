@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+    "$basetexture" "mytextures/drkhz_seat1"
+	"$alphatest" "1"
+}

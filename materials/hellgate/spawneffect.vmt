@@ -1,0 +1,17 @@
+"Sprite"
+{
+	"$spriteorientation" "vp_parallel"
+	"$translucent" 1
+	"$basetexture" "effects/exit1"
+	"$spriteorigin" "[ 0.50 0.50 ]"
+	
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" 10
+		}
+	}
+}

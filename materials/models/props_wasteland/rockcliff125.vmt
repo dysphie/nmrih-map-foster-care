@@ -1,0 +1,9 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "hellgate/bossrock_rock"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "Nature/cliffface001a_normal"
+	//"$bumpmap" "hellgate/bossrock_ssbump"
+	"$model" 1
+}
+

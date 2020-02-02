@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "nmrih/rooftop/cb_roof01"
+
+	"$surfaceprop" "wood"
+	"%keywords" "grasn"
+}

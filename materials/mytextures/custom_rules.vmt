@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "mytextures/custom_rules"
+	"$translucent" 1
+}

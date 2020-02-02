@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	"$basetexture" "mytextures/custom_g_dots"
+	"$translucent" 1	
+	"Proxies"
+		{
+			"TextureScroll"
+			{
+				"texturescrollvar" "$baseTextureTransform"
+				"texturescrollrate" 0.75
+				"texturescrollangle" -90.00
+			}
+		}
+}

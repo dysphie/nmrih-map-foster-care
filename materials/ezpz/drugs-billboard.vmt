@@ -1,0 +1,5 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "models/props/street/billboard/drugs-billboard"
+	"$surfaceprop" "Wood_Solid"
+}

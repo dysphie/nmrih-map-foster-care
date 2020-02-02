@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props/objectives/whiteboard_body"
+	"$model" 1	
+	"$surfaceprop" "plastic"
+}

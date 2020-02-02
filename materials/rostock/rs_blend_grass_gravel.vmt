@@ -1,0 +1,10 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "rostock/cb_grass02_autumn"
+	"$basetexture2" "nature/gravelfloor004a"
+	"$detail" "overlays/macro01a"
+	"$detailscale" .1
+	"%tooltexture" "nature/blendgrassgravel001a_tooltexture"
+	"$surfaceprop" "dirt"
+	"$surfaceprop2" "dirt"
+}

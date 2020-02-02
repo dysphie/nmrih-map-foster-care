@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "nmrih/brick/industrialwall002a"
+	"$surfaceprop" "brick"
+	"%keywords" "nmrih"
+
+	$detail "nmrih\detail\detail_brick_01"
+	$detailscale "7"
+	$detailblendfactor ".6"
+	$detailblendmode "0"
+}
