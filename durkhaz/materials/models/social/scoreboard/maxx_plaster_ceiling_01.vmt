@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "nmrih/ceiling/maxx_plaster_ceiling_01"
+	"$bumpmap" "nmrih/ceiling/maxx_plaster_ceiling_01_n"
+	"$surfaceprop" "plaster"
+	"%keywords" "nmrih"
+}

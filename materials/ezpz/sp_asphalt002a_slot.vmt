@@ -1,8 +1,0 @@
-LightmappedGeneric
-{
-	$basetexture "ezpz\sp_asphalt002a_slot"
-	$translucent 1
-	$decal 1
-	$decalscale "1.0"
-	$normalmap "nmrih/road/SP_asphalt002a_normal"
-}

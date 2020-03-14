@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+    "$basetexture"	"mytextures\drkhz_woodwall3"
+    "$surfaceprop" "wood"
+}

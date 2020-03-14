@@ -1,0 +1,5 @@
+"unlitgeneric"
+{
+	$model 1 	"$basetexture" "void/p_6"
+	"$translucent" 1
+}

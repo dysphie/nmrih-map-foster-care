@@ -1,7 +1,0 @@
-"Sprite"
-{
-	"$spriteorientation" "vp_parallel"
-	"$translucent" 1
-	"$basetexture" "mytextures/health_sprite"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-}

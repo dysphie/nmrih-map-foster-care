@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "nmrih/road/SP_asphalt002a"
+	"$bumpmap" "nmrih/road/SP_asphalt002a_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[ .125 .125 .125 ]"
+	"$surfaceprop" "concrete"
+	"%keywords" "nmrih"
+}

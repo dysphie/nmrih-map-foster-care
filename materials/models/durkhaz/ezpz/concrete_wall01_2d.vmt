@@ -1,7 +1,0 @@
-"vertexlitgeneric"
-{
-   "$basetexture" "maps/nmrih_citylife/concrete_wall01_2d"
-   "$bumpmap" "maps/nmrih_citylife/concrete_wall01_2d_normal"
-   "$surfaceprop" "concrete"
-}
-

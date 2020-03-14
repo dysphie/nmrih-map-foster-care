@@ -1,7 +1,0 @@
-VertexLitGeneric
-{
-	"$basetexture"	"models\durkhaz\ezpz\meter"
-	"$envmap" "env_cubemap"
-	"$envmapmask" "models\durkhaz\ezpz\meter_ref"
-
-}

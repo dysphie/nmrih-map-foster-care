@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "nmrih/wood/cb_wood09"
+	"$bumpmap"  "nmrih/wood/cb_wood09_n"
+
+	"$surfaceprop" "wood"
+	"%keywords" "grasn"
+}

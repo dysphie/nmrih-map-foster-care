@@ -1,0 +1,14 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "hellgate/bossrock_rock"
+	"$bumpmap" "hellgate/bossrock_ssbump"
+
+	"$basetexture2" "nature/dirtfloor005b"
+	"$ssbump" "1"
+	"$normalmapalphaenvmapmask" 1
+
+	"$envmaptint" "[ .2 .2 .2]"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "concrete"
+	"$seamless_scale" .005
+}

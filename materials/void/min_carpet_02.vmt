@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "void/min_carpet_02"
-//	"$bumpmap" "void/ministry_office_wall_01_normal"
-
-	$surfaceprop "fabric"
-}

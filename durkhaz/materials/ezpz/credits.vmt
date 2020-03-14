@@ -1,0 +1,14 @@
+UnlitGeneric
+{
+	$basetexture "ezpz\credits"
+	$translucent 1
+	"Proxies"
+		{
+			"TextureScroll"
+			{
+				"texturescrollvar" "$baseTextureTransform"
+				"texturescrollrate" 0.15
+				"texturescrollangle" 90.00
+			}
+		}
+}

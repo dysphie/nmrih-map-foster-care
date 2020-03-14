@@ -1,7 +1,0 @@
-"unlitgeneric"
-{
-	"$basetexture" "void/planck_decal_logo"
-	"$translucent" 1
-	"$decal" 1
-	"$decalscale" 0.5
-}

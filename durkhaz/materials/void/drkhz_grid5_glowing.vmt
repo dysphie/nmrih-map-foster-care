@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+    "$basetexture"	"void\drkhz_grid5_glowing"
+	"$surfaceprop" glass
+	"$nocull" 1
+	"$translucent" 1
+}

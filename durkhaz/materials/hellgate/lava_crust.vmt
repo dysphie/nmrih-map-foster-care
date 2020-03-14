@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "hellgate/lava_crust"
+	"$translucent" "1"
+	"$alphatest" "1"
+	"$allowalphatocoverage" "1"
+	"$surfaceprop" "concrete"
+}

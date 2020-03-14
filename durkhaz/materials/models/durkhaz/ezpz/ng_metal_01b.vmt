@@ -1,0 +1,5 @@
+vertexlitgeneric
+{
+	"$basetexture" "nmrih/metal/ng_metal_01b"
+	"$surfaceprop" "metal"
+}

@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "ezpz/sp_asphalt002slot"
+	"$normalmap" "nmrih/road/SP_asphalt002a_normal"
+	"$surfaceprop" "concrete"
+
+    "$detail" "detail\noise_detail_01"
+	"$detailscale" "5.345"
+	"$detailblendfactor" .6
+	"$detailblendmode" 0
+}

@@ -1,6 +1,0 @@
-"LightmappedGeneric"
-{
-    "$basetexture" "mytextures/drkhz_wframe"
-    "$surfaceprop" "metal"    
-    "$bumpmap" "mytextures/drkhz_wframe_normal"
-}

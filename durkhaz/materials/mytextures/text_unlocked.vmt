@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "mytextures/text_unlocked"
+	"$translucent" 1
+}

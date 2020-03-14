@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+	$basetexture "ezpz\sc_kills"
+	$translucent 1
+}

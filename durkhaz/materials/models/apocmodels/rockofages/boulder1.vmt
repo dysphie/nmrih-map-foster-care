@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/apocmodels/RockOfAges/boulder1"
+	"$bumpmap"     "models/apocmodels/RockOfAges/boulder1_NRM"
+
+	"$phong" "1"
+	"$PhongAlbedoTint"	"1"
+	"$phongexponenttexture"	"models/apocmodels/RockOfAges/exponent"
+	"$phongexponent" "21"
+	"$phongboost" "5"	
+	"$phongfresnelranges"	"[.6 2 15]"
+
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "8"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "2"										// Boost for ambient cube component of rim lighting
+}

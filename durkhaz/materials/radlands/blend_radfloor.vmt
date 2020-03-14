@@ -1,0 +1,17 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "Nature/dirtfloor012a"
+	"$bumpmap" "Nature/dirtfloor012a_normal"
+	"%tooltexture" "nature/blendsandweed005a_tooltexture"
+	"$surfaceprop" "sand"
+	
+	"$basetexture2" "nature/seaweed002a"
+	"$bumpmap2" "nature/seaweed002a_normal"
+	
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .65 .65 .65 ]"
+	"$envmap" "env_cubemap"
+	
+	"%detailtype" "coastline_redgrass01"
+}

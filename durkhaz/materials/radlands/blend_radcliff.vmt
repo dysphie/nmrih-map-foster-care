@@ -1,0 +1,22 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "radlands/rock"
+	"$bumpmap" "radlands/rock_bump"
+	"$ssbump	"	1
+	"$surfaceprop" "rock"
+
+	"$basetexture2" "nmrih/grass/greg_cliff_grass01"
+	"$bumpmap2" "nmrih/grass/greg_cliff_grass01_n"
+	"$surfaceprop2" "grass"
+
+	"$detail" "overlays/macro01a"
+	"$detailscale" ".1"
+	//"$basetexturetransform" "center 1 1 scale 2 2 rotate 0 translate 0 0"
+	//"$basetexturetransform2" "center .5 .5 scale .5 .5 rotate 0 translate 0 0"
+
+	"%detailtype" "redgrass"
+
+	"%tooltexture" "nmrih/blend/greg_cliff_grass_tool"
+	
+	"%keywords" "blend"
+}

@@ -1,7 +1,0 @@
-"vertexlitgeneric"
-{
-		"$basetexture" "nmrih/wood/sp_woodfloor03a"
-		"$bumpmap" "nmrih/wood/sp_woodfloor03a_n"
-		"$surfaceprop" "wood"
-		"%keywords" "nmrih"
-}

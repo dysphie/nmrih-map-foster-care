@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "nmrih/metal/metalstainless001a"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ 0.55 0.55 0.75 ]"
+	"$envmapcontrast" "1"
+	"$envmapsaturation" "1"
+	"%keywords" "kosire"
+}

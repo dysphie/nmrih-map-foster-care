@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "hellgate/stonewall044b_dark"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "stone/stonewall044b_normal"
+}

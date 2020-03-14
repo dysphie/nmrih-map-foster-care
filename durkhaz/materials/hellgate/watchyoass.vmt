@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	$basetexture "hellgate/watchyoass"
+	//$translucent 1
+	"$alphatest" "1"
+	$decal 1
+	$decalscale "1.0"
+}

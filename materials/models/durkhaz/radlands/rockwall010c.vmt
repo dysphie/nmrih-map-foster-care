@@ -1,6 +1,0 @@
-"vertexlitgeneric"
-{
-	"$basetexture" "nature/rockwall010c"
-	//"$bumpmap" "nature/rockwall010a_normal"
-	"$surfaceprop" "concrete"
-}

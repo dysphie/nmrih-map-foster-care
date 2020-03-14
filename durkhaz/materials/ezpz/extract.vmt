@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+	$basetexture "ezpz\extract"
+	$translucent 1
+}

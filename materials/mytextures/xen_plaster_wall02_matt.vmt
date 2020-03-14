@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "nmrih/walls/XEN_plaster_wall02"
-	"$bumpmap" "nmrih/walls/XEN_plaster_wall02_n"
-	"$surfaceprop" "Concrete"
-	"%keywords" "nmrih"
-}

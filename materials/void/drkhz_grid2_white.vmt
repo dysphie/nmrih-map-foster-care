@@ -1,6 +1,0 @@
-LightmappedGeneric
-{
-    "$basetexture"	"void\drkhz_grid2_white"
-	"$selfillum" 1
-	"$surfaceprop" glass
-}

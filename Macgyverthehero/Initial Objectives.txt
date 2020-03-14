@@ -1,0 +1,17 @@
+nmo_southpole Objectives List (How I originally intended them, based on the latest version.)
+
+1. Get out of the cafeteria.
+
+2. Find your way to the station’s bridge.
+
+3. Contact the circling helicopter in the radio room.
+
+4. Find and secure two ingredients for the final vaccine.
+
+5. Go to the underground area.
+
+6. Restore backup power to the underground.
+
+7. Load the vaccine ingredients onto the payload.
+
+8. Hold out in the dome until rescue arrives!

@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+    "$basetexture"	"brainiac\hack1_tile"
+	"$surfaceprop" glass
+}

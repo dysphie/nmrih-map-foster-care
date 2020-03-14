@@ -1,9 +1,0 @@
-LightmappedGeneric
-{
-	"$basetexture"	"mytextures/custom_hospitaldoor"
-	"$bumpmap" "mytextures/custom_hospitaldoor_normal"
-	"$normalmapalphaenvmapmask" 1  
-	"$envmap" "env_cubemap"
-	"$surfaceprop" "solidmetal"
-
-}

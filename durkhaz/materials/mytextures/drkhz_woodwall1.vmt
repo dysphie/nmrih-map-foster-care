@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+    "$basetexture" "mytextures/drkhz_woodwall1"
+    "$surfaceprop" "wood"
+    "$bumpmap" "mytextures/drkhz_woodwall1_normal"
+	"$envmap" "env_cubemap"
+    "$envmapcontrast" 1
+    "$envmapsaturation" 1
+    "$envmaptint" "[.35 .35 .35]" 
+}

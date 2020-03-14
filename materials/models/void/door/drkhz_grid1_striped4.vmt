@@ -1,6 +1,0 @@
-vertexlitgeneric
-{
-    "$basetexture"	"void\drkhz_grid1_striped4"
-	"$selfillum" 1
-	"$surfaceprop" glass
-}

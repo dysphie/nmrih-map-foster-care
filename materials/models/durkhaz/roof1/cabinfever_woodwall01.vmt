@@ -1,7 +1,0 @@
-"vertexlitGeneric"
-{
-	"$basetexture" "nmrih/nmrih_cabinfever/cabinfever_woodwall01"
-	"%keywords" "cabinfever"
-	"$surfaceprop" "wood"
-	"$bumpmap" "nmrih/nmrih_cabinfever/cabinfever_woodwall01_normal"
-}

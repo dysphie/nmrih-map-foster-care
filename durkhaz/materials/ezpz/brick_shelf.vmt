@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "ezpz/brick_shelf"
+	"$bumpmap" "ezpz/brick_shelf_normal"
+	"$surfaceprop" "brick" 
+}

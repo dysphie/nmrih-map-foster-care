@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+   "$basetexture" "maps/nmrih_citylife/brick_wall04_2d"
+   "$bumpmap" "maps/nmrih_citylife/brick_wall04_2d_normal"
+   "$surfaceprop" "brick"
+}
+

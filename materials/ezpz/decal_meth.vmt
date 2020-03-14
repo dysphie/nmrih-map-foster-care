@@ -1,7 +1,0 @@
-LightmappedGeneric
-{
-	$basetexture "ezpz\decal_meth"
-	$translucent 1
-	$decal 1
-	$decalscale "1.0"
-}

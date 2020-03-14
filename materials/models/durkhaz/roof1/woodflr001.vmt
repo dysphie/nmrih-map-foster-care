@@ -1,9 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "construction/woodflr001"
-	"$surfaceprop" "wood"
-	"$envmapmask" "construction/woodflr001_mask"
-	"$bumpmap" "construction/woodflr001_normal"
-	"$normalmapalphaenvmapmask" "1"
-
-}

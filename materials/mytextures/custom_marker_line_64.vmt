@@ -1,7 +1,0 @@
-LightmappedGeneric
-{
-	"$basetexture" "mytextures/custom_marker_line_64"
-	$translucent 1
-	$decal 1
-	$decalscale "1.0"
-}

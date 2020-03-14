@@ -1,0 +1,24 @@
+"UnlitGeneric"
+{
+	//"$envmap" "env_cubemap"
+	
+	"$basetexture" "hellgate/lava"
+	"$surfaceprop" "slime"
+	"%compileSlime" 1
+	"$bottommaterial" "hellgate/hellgate_beneath"
+
+	"$bumpmap" "dev/water_dudv"
+	"$normalmap" "dev/water_normal"
+
+		"Proxies"
+		{
+			"TextureScroll"
+			{
+				"texturescrollvar" "$baseTextureTransform"
+				"texturescrollrate" 0.15
+				"texturescrollangle" 180.00
+				//"texturescale" 2.8
+			}
+		}
+
+}

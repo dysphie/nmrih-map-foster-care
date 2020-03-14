@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-   "$envmap" "env_cubemap"
-   "$basetexture" "models\cjay\trophy\plate02"
-   "$bumpmap" "models\cjay\trophy\plate02_n"
-    $envmaptint "[0.75 0.75 0.5]"
-}

@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	"$basetexture" "mytextures/custom_g_roll"
+	
+	"Proxies"
+		{
+			"TextureScroll"
+			{
+				"texturescrollvar" "$baseTextureTransform"
+				"texturescrollrate" 1.5
+				"texturescrollangle" -90.00
+			}
+		}
+}

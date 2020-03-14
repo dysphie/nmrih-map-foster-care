@@ -1,0 +1,5 @@
+"unlitgeneric"
+{
+	"$basetexture" "void/q_1"
+	"$translucent" 1
+}

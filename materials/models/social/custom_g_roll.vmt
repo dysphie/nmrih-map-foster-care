@@ -1,14 +1,0 @@
-"unlitgeneric"
-{
-	$model 1 	"$basetexture" "mytextures/custom_g_roll"
-	"$basetexturetransform" "center .5 .5 scale 1 1 rotate 0 translate 0 0.2"
-	"proxies"
-		{
-			"texturescroll"
-			{
-				"texturescrollvar" "$basetexturetransform"
-				"texturescrollrate" 1
-				"texturescrollangle" -90.00
-			}
-		}
-}

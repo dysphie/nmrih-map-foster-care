@@ -1,7 +1,0 @@
-"UnlitGeneric"
-{
-    "$basetexture" "skybox/x-masup"
-    "$hdrbasetexture" "skybox/x-masup"
-    "$nofog" "1"
-    "$ignorez" "1"
-}

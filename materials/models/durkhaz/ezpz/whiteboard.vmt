@@ -1,7 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models\durkhaz\ezpz\cockboard_cleopas"
-	"$model" 1	
-	"$surfaceprop" "plastic"
-	"$phong" 1
-}

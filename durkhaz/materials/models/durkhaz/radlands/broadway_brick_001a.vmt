@@ -1,0 +1,8 @@
+vertexlitgeneric
+{
+	"$basetexture"	"nmrih/broadway/broadway_brick_001a"
+	"$bumpmap" "nmrih/broadway/broadway_brick_001a_normal"
+	"$surfaceprop" "brick"
+	"%keywords" "nmrih"
+}
+
