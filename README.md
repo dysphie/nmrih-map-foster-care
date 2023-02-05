@@ -1,6 +1,6 @@
 # nmrih-map-foster-care
 
-Unfinished No More Room in Hell maps, up for grabs
+Unfinished No More Room in Hell maps, up for grabs. Please give credit where credit is due.
 
 
 > durkhaz - 23/05/2016
